@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tomorrow will be too late
+Tomorrow will be too late  
 It's now or never
