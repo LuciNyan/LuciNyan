@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LuciNyan/LuciNyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tomorrow will be too late  
-It's now or never
+Tomorrow will be too late, it's now or never.
