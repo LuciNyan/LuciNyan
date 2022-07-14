@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tomorrow will be too late, it's now or never.
+今を生きる
