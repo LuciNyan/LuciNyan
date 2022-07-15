@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-今を生きる
+夢はここに思い出は遠くに，
+気づけばそこにあるくらいがいい
