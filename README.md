@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 夢はここに思い出は遠くに，
 気づけばそこにあるくらいがいい
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake.svg)
