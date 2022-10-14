@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;夢はここに思い出は遠くに，
+&nbsp;&nbsp;&nbsp;&nbsp;夢はここに思い出は遠くに&nbsp;
 気づけばそこにあるくらいがいい
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
