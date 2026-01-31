@@ -27,6 +27,8 @@ jobs:
           outputs: |
             dist/github-stats?username=LuciNyan&screen_effect=false&theme=fuji&dithering=true&hide=avatar
             dist/github-stats-dark?username=LuciNyan&theme=crt
+          crt_outputs: |
+            dist/github-stats-crt?username=LuciNyan&include_all_commits=true
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
